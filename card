@@ -1,0 +1,12 @@
+<div class="card-grid-space">
+    <div class="num"></div>
+    <a class="card" href="#" style="--bg-img: url('path-to-your-image.jpg')">
+        <!-- Card content -->
+    </a>
+</div>
+.card {
+    /* Existing styles... */
+    height: 30em; /* Adjust the height */
+    width: 22em;  /* Adjust the width */
+    /* Other adjustments... */
+}
